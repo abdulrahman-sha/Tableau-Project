@@ -2,7 +2,7 @@
 
 
 ## Overview
-- This tableau dashboard provides a comprehensive visualization of materials’ distribution in Lebanon from 2012 to 2021, based on WFP data,- The project enables insights into the quantity and the price of each material and the total price of 29 materials for 10 years
+- This tableau dashboard provides a comprehensive visualization of materials’ distribution in Lebanon from 2012 to 2021, based on WFP data,The project enables insights into the quantity and the price of each material and the total price of 29 materials for 10 years
 
 
 
